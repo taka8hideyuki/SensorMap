@@ -1,6 +1,6 @@
 {
-  "title": "Geolonia PWAマップ",
-  "description": "GREMO 河口研究室\n「Geolonia PWAマップ」",
+  "title": "乗降センサーマップ(Geolonia PWA)",
+  "description": "GREMO 河口研究室\n",
   "form_url": "",
   "logo_image_url": "https://taka8hideyuki.github.io/SensorMap/UCLAB.png",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
