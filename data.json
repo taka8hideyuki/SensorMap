@@ -1,7 +1,216 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "status": "UNAVAILABLE"
-  }
+  "range": "'スポットデータ'!A1:J37",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "公式サイト"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.978775",
+      "136.945297",
+      "higashiura",
+      "21010014"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.987007",
+      "137.003113",
+      "higashiura",
+      "21010015"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.981457",
+      "136.972305",
+      "higashiura",
+      "21010016"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.906185",
+      "136.931793",
+      "higashiura",
+      "21010017"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.981613",
+      "136.971954",
+      "higashiura",
+      "21010018"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.892368",
+      "137.167587",
+      "kota",
+      "KOTA53"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.863083",
+      "137.177185",
+      "kota",
+      "KOTA55"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.847191",
+      "137.163361",
+      "kota",
+      "KOTA57"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.896240",
+      "137.237625",
+      "kota",
+      "KOTA58"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.876225",
+      "137.166382",
+      "kota",
+      "KOTA59"
+    ],
+    [
+      "2022/06/08 07:26",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.787727",
+      "136.498947",
+      "minamiise",
+      "21010001"
+    ],
+    [
+      "2022/06/19 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.368500",
+      "136.790710",
+      "minamiise",
+      "21010002"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.454407",
+      "136.656601",
+      "minamiise",
+      "21010003"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.349716",
+      "136.698837",
+      "minamiise",
+      "21010004"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.348736",
+      "136.698334",
+      "minamiise",
+      "21010005"
+    ],
+    [
+      "2022/06/20 12:59",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.370098",
+      "136.802109",
+      "minamiise",
+      "21010006"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.303761",
+      "136.690048",
+      "minamiise",
+      "21010007"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "35.092777",
+      "137.570206",
+      "shinshiro",
+      "21010010"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "35.092678",
+      "137.570068",
+      "shinshiro",
+      "21010011"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.914585",
+      "137.516266",
+      "shinshiro",
+      "21010013"
+    ],
+    [
+      "2022/06/17 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "35.197262",
+      "136.908463",
+      "toyoyama",
+      "21010008"
+    ],
+    [
+      "2022/06/20 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "35.288029",
+      "136.925217",
+      "toyoyama",
+      "21010019"
+    ]
+  ]
 }
