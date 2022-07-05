@@ -2,7 +2,7 @@
   "title": "乗降センサーMAP",
   "description": "河口研究室\n",
   "form_url": "",
-  "logo_image_url": "https://taka8hideyuki.github.io/SensorMap/UCLAB.png",
+  "logo_image_url": "https://taka8hideyuki.github.io/SensorMap/klab-logo_jp-eng_trans.png",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
   "primary_color": "#d2691e"
 }
