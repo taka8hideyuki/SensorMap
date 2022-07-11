@@ -1,7 +1,216 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "status": "UNAVAILABLE"
-  }
+  "range": "'スポットデータ'!A1:J37",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "公式サイト"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.974457",
+      "136.932892",
+      "東浦町",
+      "21010014"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.987011",
+      "137.003113",
+      "東浦町",
+      "21010015"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.981411",
+      "136.97229",
+      "東浦町",
+      "21010016"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.906185",
+      "136.931778",
+      "東浦町",
+      "21010017"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.981663",
+      "136.971954",
+      "東浦町",
+      "21010018"
+    ],
+    [
+      "2022/6/29 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.844421",
+      "137.167023",
+      "幸田町",
+      "KOTA53"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.862118",
+      "137.179703",
+      "幸田町",
+      "KOTA55"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.889595",
+      "137.164993",
+      "幸田町",
+      "KOTA57"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.845135",
+      "137.166702",
+      "幸田町",
+      "KOTA58"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.874542",
+      "137.174149",
+      "幸田町",
+      "KOTA59"
+    ],
+    [
+      "2022/6/14 8:25",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.78743",
+      "136.498993",
+      "南伊勢町",
+      "21010001"
+    ],
+    [
+      "2022/6/29 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.357422",
+      "136.761642",
+      "南伊勢町",
+      "21010002"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.465302",
+      "136.661835",
+      "南伊勢町",
+      "21010003"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.348969",
+      "136.700394",
+      "南伊勢町",
+      "21010004"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.370846",
+      "136.801636",
+      "南伊勢町",
+      "21010005"
+    ],
+    [
+      "2022/6/30 12:59",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.370941",
+      "136.802399",
+      "南伊勢町",
+      "21010006"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.303825",
+      "136.690033",
+      "南伊勢町",
+      "21010007"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "35.093006",
+      "137.569946",
+      "新城市",
+      "21010010"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "35.092907",
+      "137.570236",
+      "新城市",
+      "21010011"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "34.914677",
+      "137.516769",
+      "新城市",
+      "21010013"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "35.197227",
+      "136.90657",
+      "豊山町",
+      "21010008"
+    ],
+    [
+      "2022/6/30 13:00",
+      "乗降センサー",
+      "https://taka8hideyuki.github.io/SensorMap/bus.png",
+      "35.29121",
+      "136.926926",
+      "豊山町",
+      "21010019"
+    ]
+  ]
 }
