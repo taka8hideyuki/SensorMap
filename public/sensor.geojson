@@ -9,7 +9,7 @@
 { "type": "Feature", "properties": { "title": "幸田町", "description": "KOTA57"}, "geometry": { "coordinates": [137.188873,34.888958], "type": "Point" }},
 { "type": "Feature", "properties": { "title": "幸田町", "description": "KOTA58"}, "geometry": { "coordinates": [137.190704,34.825684], "type": "Point" }},
 { "type": "Feature", "properties": { "title": "幸田町", "description": "KOTA59"}, "geometry": { "coordinates": [137.144867,34.884514], "type": "Point" }},
-{ "type": "Feature", "properties": { "title": "南伊勢町", "description": "21010001"}, "geometry": { "coordinates": [136.770035,34.358990], "type": "Point", "marker-color": "#7e7e7e"}},
+{ "type": "Feature", "properties": { "title": "南伊勢町", "description": "21010001", "marker-color": "#7e7e7e"}, "geometry": { "coordinates": [136.770035,34.358990], "type": "Point"}},
 { "type": "Feature", "properties": { "title": "南伊勢町", "description": "21010002"}, "geometry": { "coordinates": [136.673309,34.373154], "type": "Point" }},
 { "type": "Feature", "properties": { "title": "南伊勢町", "description": "21010003"}, "geometry": { "coordinates": [136.733795,34.350403], "type": "Point" }},
 { "type": "Feature", "properties": { "title": "南伊勢町", "description": "21010004"}, "geometry": { "coordinates": [136.807434,34.370544], "type": "Point" }},
